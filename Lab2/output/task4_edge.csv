@@ -1,0 +1,9 @@
+﻿func;method;eps_x;budget;Nf;iters;length;x_mid;stop;error_x;error_f
+f0;grid;1.0000e-04;;40002;0;1.0000e-04;-2.0000e+00;tolerance;0.0000e+00;0.0000e+00
+f0;dichotomy;1.0000e-04;;33;15;1.2307e-04;-1.9999e+00;tolerance;0.0000e+00;0.0000e+00
+f0;golden;1.0000e-04;;26;21;1.6343e-04;-1.9999e+00;tolerance;0.0000e+00;0.0000e+00
+f0;fibonacci;1.0000e-04;;26;21;1.6979e-04;-1.9999e+00;tolerance;0.0000e+00;0.0000e+00
+fb;grid;1.0000e-04;;40002;0;1.0000e-04;2.0000e+00;tolerance;5.0000e-05;2.5000e-09
+fb;dichotomy;1.0000e-04;;33;15;1.2307e-04;1.9999e+00;tolerance;6.1535e-05;3.7866e-09
+fb;golden;1.0000e-04;;26;21;1.6343e-04;1.9999e+00;tolerance;8.1713e-05;6.6770e-09
+fb;fibonacci;1.0000e-04;;26;21;1.6979e-04;1.9999e+00;tolerance;8.4895e-05;7.2072e-09
